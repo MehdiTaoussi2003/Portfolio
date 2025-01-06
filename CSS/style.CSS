@@ -198,8 +198,8 @@ nav ul li a:hover {
         bottom: 0;
     }
 
-    .container-image {
-        flex-basis: 100%;
+    .container-image img {
+        display: none;
     }
 }
 
